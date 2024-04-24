@@ -1,0 +1,26 @@
+@layer base {
+  :root{
+    /*主题色*/
+    --ds-primary-color: 6, 174, 170;
+    --ds-regular-color: 157, 223, 221;
+
+    --ds-warning-color: 247, 138, 90;
+    --ds-info-color: 58, 148, 183;
+
+    /*文字*/
+    --ds-text-primary-color: 35, 39, 38;
+    --ds-text-title-color: 68, 68, 68;
+    --ds-text-regular-color: 94, 99, 109;
+    --ds-text-secondary-color: 122, 126, 133;
+    --ds-text-placeholder-color: 167, 171, 170;
+
+    /*边框*/
+    --ds-border-weaken-color: 107,119,133;
+    --ds-border-primary-color: 167, 171, 170;
+    --ds-border-regular-color: 234, 234, 235;
+
+    /*背景*/
+    --ds-bg-primary-color: 245, 247, 247;
+    --ds-bg-info-color: 188, 190, 192;
+  }
+}
