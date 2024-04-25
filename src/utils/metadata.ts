@@ -7,7 +7,7 @@ export const websiteMetadata = {
   // 导航条
   navItems: [
     { path: '/', name: '首页', key: 'index' },
-    { path: '/about', name: '关于', key: 'about' },
+    { path: '/about', name: '关于', key: 'about', params: '' },
     {
       path: '/team',
       name: '团队',

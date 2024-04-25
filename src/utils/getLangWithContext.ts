@@ -1,5 +1,5 @@
-import { GetServerSidePropsContext, PreviewData } from 'next'
-import { ParsedUrlQuery } from 'querystring'
+import type { GetServerSidePropsContext, PreviewData } from 'next'
+import type { ParsedUrlQuery } from 'querystring'
 import { serverSideTranslations } from 'next-i18next/serverSideTranslations'
 
 export const getLangWithContext = async (

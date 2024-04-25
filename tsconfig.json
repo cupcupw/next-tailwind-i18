@@ -16,6 +16,7 @@
     "isolatedModules": true,
     "jsx": "preserve",
     "incremental": true,
+    "verbatimModuleSyntax": true,//type导入类型
     "paths": {
       "@/*": [
         "./src/*"

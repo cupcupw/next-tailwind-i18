@@ -1,5 +1,5 @@
 import classNames from 'classnames'
-import { HtmlHTMLAttributes } from 'react'
+import type { HtmlHTMLAttributes } from 'react'
 
 interface BannerProps extends HtmlHTMLAttributes<HTMLDivElement> {}
 

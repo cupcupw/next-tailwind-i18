@@ -1,4 +1,4 @@
-import { GetServerSideProps } from 'next/types'
+import type { GetServerSideProps } from 'next/types'
 import { useTranslation } from 'next-i18next'
 import { getLangWithContext } from '@/utils/getLangWithContext'
 import { SEO } from '@/components'
